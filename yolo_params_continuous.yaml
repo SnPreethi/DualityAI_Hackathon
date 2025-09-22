@@ -1,0 +1,6 @@
+train:
+  - ./Training_dataset/train1
+  - ./Falcon_dataset
+val: ./Training_dataset/val1
+nc: 7
+names: ['OxygenTank', 'NitrogenTank', 'FirstAidBox', 'FireAlarm', 'SafetySwitchPanel', 'EmergencyPhone', 'FireExtinguisher']

@@ -1,0 +1,7 @@
+train: ./Training_dataset/train1
+val: ./Training_dataset/val1
+test: ./Testing_dataset/
+
+nc: 7
+
+names: ['OxygenTank', 'NitrogenTank', 'FirstAidBox', 'FireAlarm', 'SafetySwitchPanel', 'EmergencyPhone', 'FireExtinguisher']
